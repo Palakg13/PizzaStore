@@ -1,0 +1,14 @@
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\rajat\source\repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache
